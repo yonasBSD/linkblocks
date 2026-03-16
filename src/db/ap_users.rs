@@ -210,7 +210,6 @@ pub async fn read_by_username(
     tx: &mut AppTx,
     resource: webfinger::Resource,
 ) -> ResponseResult<ApUser> {
-    dbg!(&resource);
     let domain_pattern = format!("%://{}/%", resource.domain);
     let user = query_as!(
         ApUserRow,

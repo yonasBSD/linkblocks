@@ -286,8 +286,6 @@ pub async fn list_recent(tx: &mut AppTx, ap_user_id: Uuid) -> ResponseResult<Vec
     .fetch_all(&mut **tx)
     .await?;
 
-    dbg!(lists.len());
-
     Ok(lists)
 }
 
