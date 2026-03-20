@@ -2,7 +2,9 @@
 
 *Note: This file does not contain any LLM-generated text.*
 
-## Unreleased
+## 0.2.0
+
+_Released on 2026-03-20_
 
 linkblocks is now named **ties**!
 
