@@ -119,6 +119,12 @@ This web app is implemented using technologies hand-picked for a smooth developm
 - Built-in CLI for production maintenance
 - Auto-reload in development [without dropped connections](https://github.com/mitsuhiko/listenfd)
 
+## License
+
+Source code is licensed under the AGPL. Docs and image assets are licensed under CC-BY-SA.
+
+Ties follows the [REUSE standard](https://reuse.software/) for defining a license for each file. You can find the license for a specific file in the [REUSE.toml file](REUSE.toml).
+
 ## 📋 Software Bill of Materials
 
 An up-to-date Software Bill of Materials can be found in the [ties.cdx.json](ties.cdx.json) file.
