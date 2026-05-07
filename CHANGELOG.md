@@ -2,7 +2,9 @@
 
 *Note: This file does not contain any LLM-generated text.*
 
-## 0.2.1 (Unreleased)
+## 0.2.1
+
+_Released on 2026-05-07_
 
 [You can now support ties development via GitHub Sponsors!](https://github.com/sponsors/raffomania)
 

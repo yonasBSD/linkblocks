@@ -7,6 +7,7 @@ When a new git tag is pushed, the CI automatically creates a GitHub release, bui
 Some manual steps are still necessary before handing off to the CI:
 
 - [ ] Change the "Unreleased" section header in CHANGELOG.md to the new version number
+- [ ] Write the release date below the header
 - [ ] Update the version number in Cargo.toml
 - [ ] Update the SBOM using `just generate-sbom`
 - [ ] Commit using the conventional message "Release v<version>"
